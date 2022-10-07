@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown vincent:staff -R /alx-system_engineering-devops/
+sudo chown vincent:staff ./alx-system_engineering-devops/
